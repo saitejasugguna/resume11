@@ -1,0 +1,17 @@
+{
+  "basics":{
+  "co":"this my strength"
+},
+  "education":[{
+     "name":"Btech",
+      "inst":"completed my BTech in LOYOLA with 67%",
+    },
+  {
+    "name":"Intermediate",
+    "inst":"completed my inter in NARAYANA college with 82%",
+  },
+  {
+    "name":"S S C",
+    "inst":"completed my schooling in NRBschool with 95%",
+    }]
+}
